@@ -1,0 +1,41 @@
+html,
+body {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New','Capriola', sans-serif,
+  monospace;
+  background-color: #f06292;
+}
+
+.container {
+  margin-top: 20px;
+  text-align: center;
+  align-content: center;
+  margin: 80px auto 0 auto;
+  max-width: 1200px;
+  background-color: #ffcdd2;
+  padding-bottom:60px;
+}
+.nav-container{
+  margin: auto;
+}
+
+.page_container{
+  display: flex;
+  flex-direction: column;
+  min-height: 100;
+}
+
+.content-wrap{
+  flex: 1;
+}
+
+.footer{
+  background-color: #F09AB1;
+  max-height: 125;
+  position: relative;
+  bottom: 1;
+  width: 140%;
+}
+
+h1{
+  margin-top: 20px;
+}

@@ -1,0 +1,19 @@
+.main-footer{
+    color: white;
+    background-color: #8accd0;
+    padding-top: 3em;
+    position: bottom;
+    width: 100;
+    max-height: 100%;
+    left:0;
+    bottom:0;
+    right:0;
+}
+
+.image{
+    max-width: 20%;
+}
+
+.icon{
+    align-items: flex-end;
+}
